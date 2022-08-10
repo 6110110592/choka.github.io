@@ -6,5 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  plugins: []
+  plugins: [],
+  siteUrl: 'https://choka.github.io',
+  pathPrefix: '/6110110592'
 }
